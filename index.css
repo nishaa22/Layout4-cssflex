@@ -1,0 +1,35 @@
+.container{
+    width: 80%;
+    display: flex;
+    border: 1px solid black;
+}
+span{
+    padding: 50%;
+    line-height: 25vh;
+    color: white;
+    font-size: 20px;
+}
+.d{
+    width: 20%;
+    height: 25vh;
+}
+.d1{
+    background-color: #ee9f2c;
+    order: 5;
+}
+.d2{
+    background-color: #df4927;
+    order: 3;
+}
+.d3{
+    background-color: #cd3523;
+    order: 1;
+}
+.d4{
+    background-color: #bcc1c6;
+    order: 4;
+}
+.d5{
+    background-color:#7e8a8c;
+    order: 2;
+}
